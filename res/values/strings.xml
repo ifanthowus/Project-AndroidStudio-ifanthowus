@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Syntaxin</string>
+    <string name="aboutonboard">Easily find coursce, job, and event on the go</string>
+    <string name="onboard">Never miss an opportunity</string>
+    <string name="mainapp">Syntaxin</string>
+    <string name="Login">Login</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Google">Google</string>
+    <string name="Apple">Apple</string>
+</resources>

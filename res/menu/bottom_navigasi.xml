@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Awal"
+        android:id="@+id/home"
+        android:icon="@drawable/home"/>
+    <item android:title="message"
+        android:id="@+id/message"
+        android:icon="@drawable/message"/>
+    <item android:title="Notifikasi"
+        android:id="@+id/notifikasi"
+        android:icon="@drawable/notification"/>
+    <item android:title="Akun"
+        android:id="@+id/user"
+        android:onClick="Clickabout"
+        android:icon="@drawable/user"/>
+</menu>
